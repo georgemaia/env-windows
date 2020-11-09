@@ -18,12 +18,16 @@ Chocolatey is a package manager for windows, allowing you to install apps with a
 
 See [github repo](https://github.com/chocolatey/choco)
 
+---
+
 ## Usage
 **First install Chocolatey using cmd**
 
 ```
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ```
+
+---
 
 ## Documentation
 Please see the [wiki](https://github.com/chocolatey/choco/wiki)
@@ -32,6 +36,7 @@ Give `choco.exe /?` a shot (or `choco.exe -h`). For specific commands, add the c
 
 Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo](https://github.com/chocolatey/chocolatey).
 
+---
 
 ## Applications
 

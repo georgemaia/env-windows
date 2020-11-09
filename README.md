@@ -3,12 +3,6 @@ Windows environment install after formatting
 
 This repository contains installation and update scripts, I use in my daily work.
 They depend on [chocolatey](http://chocolatey.org/), which is the package manager, I like most on Windows.
-Please start `cmd.exe` as administrator and run [install.bat](install.bat).
-
-You can simply switch from manual installation to chocolatey, because chocolatey uses the installers provided by the software vendors.
-They should be capabale to recognize an existing installation.
-
-Run [update-all.bat](update-all.bat) from time to time to ensure that all packages are up to date.
 
 ![Chocolatey-logo](https://chocolatey.org/content/images/logo_square.svg "Logo")
 
@@ -21,11 +15,19 @@ See [github repo](https://github.com/chocolatey/choco)
 ---
 
 ## Usage
+
 **First install Chocolatey using cmd**
 
 ```
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ```
+
+After start `cmd.exe` as administrator and run [install.bat](install.bat).
+
+You can simply switch from manual installation to chocolatey, because chocolatey uses the installers provided by the software vendors.
+They should be capabale to recognize an existing installation.
+
+Run [update-all.bat](update-all.bat) from time to time to ensure that all packages are up to date.
 
 ---
 

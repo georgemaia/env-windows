@@ -43,8 +43,7 @@ choco install git
 
 choco install dropbox
 
-choco install firefox
-choco pin add -n=firefox
+choco install brave
 
 choco install 7zip
 

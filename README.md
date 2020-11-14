@@ -45,7 +45,8 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 * 7-Zip
 * Adobe Acrobat Reader DC 
 * Amazon Send to Kindle
-* calibre
+* Brave Browser
+* Calibre
 * Composer - Php Dependency Manager	
 * DBeaver
 * Dropbox
@@ -56,7 +57,6 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 * MEGAsync	
 * Microsoft PowerToys
 * Microsoft Visual Studio Code
-* Mozilla Firefox
 * Oracle VM VirtualBox 
 * Pandoc
 * Putty

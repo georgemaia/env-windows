@@ -81,6 +81,8 @@ choco install libreoffice-still
 
 choco install megasync
 
+choco install vmware-workstation-player
+
 choco install virtualbox
 
 choco install vnc-viewer

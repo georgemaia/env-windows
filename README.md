@@ -64,6 +64,7 @@ SyncToy
 * TeamViewer
 * VeraCrypt	
 * VLC media player
+* VMWare Workstation Player
 * VNC Viewer
 * WindirStat
 * WinSCP

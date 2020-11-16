@@ -1,8 +1,10 @@
 # Windows Applications Install
-Windows environment install after formatting
+Windows environment install after formatting. 
 
 This repository contains installation and update scripts, I use in my daily work.
 They depend on [chocolatey](http://chocolatey.org/), which is the package manager, I like most on Windows.
+
+For the Linux SO, try [https://github.com/georgemaia/env-linux](https://github.com/georgemaia/env-linux).
 
 ![Chocolatey-logo](https://chocolatey.org/content/images/logo_square.svg "Logo")
 

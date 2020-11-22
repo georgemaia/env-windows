@@ -52,6 +52,7 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 * Composer - Php Dependency Manager	
 * DBeaver
 * Dropbox
+* Fira Code Font
 * FileZilla Client 
 * Font-Awesome
 * Git

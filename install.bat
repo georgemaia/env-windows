@@ -73,6 +73,8 @@ choco install composer
 
 choco install dbeaver
 
+choco install firacode
+
 choco install filezilla
 
 choco install font-awesome-font

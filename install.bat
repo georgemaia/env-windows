@@ -79,7 +79,7 @@ choco install filezilla
 
 choco install font-awesome-font
 
-choco install libreoffice-still
+choco install libreoffice-fresh
 
 choco install megasync
 
@@ -90,6 +90,10 @@ choco install virtualbox
 choco install vnc-viewer
 
 choco install bitnami-xampp
+
+choco install ventoy
+
+choco install vscode
 
 goto END
 

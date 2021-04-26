@@ -65,10 +65,12 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 * Putty
 SyncToy
 * TeamViewer
+* Ventoy
 * VeraCrypt	
 * VLC media player
 * VMWare Workstation Player
 * VNC Viewer
+* VS Code
 * WindirStat
 * WinSCP
 * XAMPP	

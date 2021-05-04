@@ -93,7 +93,9 @@ choco install bitnami-xampp
 
 choco install ventoy
 
-choco install vscode
+choco install python3
+
+choco install anaconda3
 
 goto END
 

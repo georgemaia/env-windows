@@ -47,6 +47,7 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 * 7-Zip
 * Adobe Acrobat Reader DC 
 * Amazon Send to Kindle
+* Anaconda Notebook
 * Brave Browser
 * Calibre
 * Composer - Php Dependency Manager	
@@ -63,6 +64,7 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 * Oracle VM VirtualBox 
 * Pandoc
 * Putty
+* Python 3
 SyncToy
 * TeamViewer
 * Ventoy

@@ -48,6 +48,7 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 * Adobe Acrobat Reader DC 
 * Amazon Send to Kindle
 * Anaconda Notebook
+* Android Studio
 * Brave Browser
 * Calibre
 * Composer - Php Dependency Manager	
@@ -56,16 +57,19 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 * Fira Code Font
 * FileZilla Client 
 * Font-Awesome
+* Gradle
 * Git
+* IntelliJidea Community
 * LibreOffice
 * MEGAsync	
 * Microsoft PowerToys
 * Microsoft Visual Studio Code
+* Openshot
 * Oracle VM VirtualBox 
 * Pandoc
 * Putty
 * Python 3
-SyncToy
+* SyncToy
 * TeamViewer
 * Ventoy
 * VeraCrypt	

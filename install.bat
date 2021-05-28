@@ -41,31 +41,15 @@ git config --global branch.sort -committerdate
 
 choco install git
 
-choco install dropbox
-
-choco install brave
-
 choco install 7zip
 
-choco install vscode
-choco pin add -n vscode
+choco install anaconda3
 
-choco install putty.install
-choco install winscp.install
-
-choco install windirstat
-
-choco install sysinternals
-choco install powertoys
-choco pin add -n=powertoys
-
-choco install teamviewer
-
-choco install vlc
+choco install androidstudio
 
 choco install adobereader
 
-choco install sendtokindle
+choco install brave
 
 choco install calibre
 
@@ -73,15 +57,34 @@ choco install composer
 
 choco install dbeaver
 
+choco install dropbox
+
 choco install firacode
 
 choco install filezilla
 
 choco install font-awesome-font
 
+choco install intellijidea-community
+
+choco install vscode
+choco pin add -n vscode
+
+choco install putty.install
+
+choco install teamviewer
+
+choco install vlc
+
+choco install sendtokindle
+
 choco install libreoffice-fresh
 
 choco install megasync
+
+choco install python3
+
+choco install openshot
 
 choco install vmware-workstation-player
 
@@ -93,9 +96,13 @@ choco install bitnami-xampp
 
 choco install ventoy
 
-choco install python3
+choco install winscp.install
 
-choco install anaconda3
+choco install windirstat
+
+choco install sysinternals
+choco install powertoys
+choco pin add -n=powertoys
 
 goto END
 

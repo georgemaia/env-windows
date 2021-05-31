@@ -67,9 +67,6 @@ choco install font-awesome-font
 
 choco install intellijidea-community
 
-choco install vscode
-choco pin add -n vscode
-
 choco install putty.install
 
 choco install teamviewer
@@ -96,6 +93,9 @@ choco install bitnami-xampp
 
 choco install ventoy
 
+choco install vscode
+choco pin add -n vscode
+
 choco install winscp.install
 
 choco install windirstat
@@ -104,13 +104,13 @@ choco install sysinternals
 choco install powertoys
 choco pin add -n=powertoys
 
-goto END
+rem koppor's very special tools
+choco install pandoc
 
 rem This package requires manual intervention
 choco install veracrypt
 
-rem koppor's very special tools
-choco install pandoc
+goto END
 
 :END
 

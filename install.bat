@@ -95,6 +95,8 @@ choco install bitnami-xampp
 
 choco install ventoy
 
+choco install virtualbox
+
 choco install vscode
 choco pin add -n vscode
 

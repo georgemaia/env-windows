@@ -65,11 +65,9 @@ choco install filezilla
 
 choco install font-awesome-font
 
+choco install gimp
+
 choco install intellijidea-community
-
-choco install putty.install
-
-choco install teamviewer
 
 choco install vlc
 
@@ -79,9 +77,13 @@ choco install libreoffice-fresh
 
 choco install megasync
 
+choco install openshot
+
+choco install putty.install
+
 choco install python3
 
-choco install openshot
+choco install teamviewer
 
 choco install vmware-workstation-player
 

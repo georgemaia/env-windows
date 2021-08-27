@@ -43,11 +43,13 @@ choco install git
 
 choco install 7zip
 
+choco install adobereader
+
 choco install anaconda3
 
 choco install androidstudio
 
-choco install adobereader
+choco install anydesk
 
 choco install brave
 
@@ -56,6 +58,8 @@ choco install calibre
 choco install composer
 
 choco install dbeaver
+
+choco install docker-desktop
 
 choco install dropbox
 
@@ -69,19 +73,27 @@ choco install gimp
 
 choco install intellijidea-community
 
-choco install vlc
-
-choco install sendtokindle
+choco install kdenlive
 
 choco install libreoffice-fresh
 
 choco install megasync
 
+choco install obs-studio
+
 choco install openshot
+
+choco install pandoc
 
 choco install putty.install
 
 choco install python3
+
+choco install sendtokindle
+
+choco install sql-server-management-studio
+
+choco install synctrayzor
 
 choco install teamviewer
 
@@ -94,6 +106,10 @@ choco install vnc-viewer
 choco install bitnami-xampp
 
 choco install ventoy
+
+choco install veracrypt
+
+choco install vlc
 
 choco install virtualbox
 

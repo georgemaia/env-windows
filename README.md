@@ -49,27 +49,34 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 * Amazon Send to Kindle
 * Anaconda Notebook
 * Android Studio
+* Anydesk
 * Brave Browser
 * Calibre
 * Composer - Php Dependency Manager	
 * DBeaver
+* Docker-Desktop
 * Dropbox
 * Fira Code Font
 * FileZilla Client 
+* Firefox
 * Font-Awesome
 * Gradle
 * Git
 * IntelliJidea Community
+* Kdenlive
 * LibreOffice
 * MEGAsync	
 * Microsoft PowerToys
 * Microsoft Visual Studio Code
+* Obs-studio
 * Openshot
 * Oracle VM VirtualBox 
 * Pandoc
 * Putty
+* sql-server-management-studio
 * Python 3
 * SyncToy
+* Synctrayzor
 * TeamViewer
 * Ventoy
 * VeraCrypt	

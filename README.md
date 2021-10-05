@@ -6,7 +6,7 @@ They depend on [chocolatey](http://chocolatey.org/), which is the package manage
 
 For the Linux SO, try [https://github.com/georgemaia/env-linux](https://github.com/georgemaia/env-linux).
 
-![Chocolatey-logo](https://chocolatey.org/content/images/logo_square.svg "Logo")
+![Chocolatey-logo](https://chocolatey.org/assets/images/global-shared/logo-square.svg)
 
 
 # Chocolatey install scripts

@@ -59,6 +59,8 @@ choco install composer
 
 choco install dbeaver
 
+choco install discord
+
 choco install docker-desktop
 
 choco install dropbox
@@ -121,6 +123,7 @@ choco install winscp.install
 choco install windirstat
 
 choco install sysinternals
+
 choco install powertoys
 choco pin add -n=powertoys
 

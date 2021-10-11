@@ -62,6 +62,7 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 * Font-Awesome
 * Gradle
 * Git
+* Insomnia
 * IntelliJidea Community
 * Kdenlive
 * LibreOffice

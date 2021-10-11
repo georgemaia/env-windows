@@ -73,6 +73,8 @@ choco install font-awesome-font
 
 choco install gimp
 
+choco install insomnia-rest-api-client
+
 choco install intellijidea-community
 
 choco install kdenlive

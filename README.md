@@ -1,6 +1,8 @@
 # Windows Applications Install
 Windows environment install after formatting. 
 
+Para um guia em portuguës de como usar o chocolatey para instalar suas dependências, basta acessar este [link](https://www.godela.com.br/noticia/1733/como-usar-o-chocolatey/).
+
 This repository contains installation and update scripts, I use in my daily work.
 They depend on [chocolatey](http://chocolatey.org/), which is the package manager, I like most on Windows.
 

@@ -1,27 +1,33 @@
+# Windows ENV installs
 <!-- TOC -->
 
-- [Chocolatey](#chocolatey)
-    - [Chocolatey install scripts](#chocolatey-install-scripts)
-    - [Usage](#usage)
-    - [Documentation](#documentation)
-    - [Applications](#applications)
-- [Winget](#winget)
-    - [Usage](#usage)
+- [Windows ENV installs](#windows-env-installs)
+    - [Chocolatey](#chocolatey)
+        - [Chocolatey install scripts](#chocolatey-install-scripts)
+        - [Usage](#usage)
+        - [Documentation](#documentation)
+        - [Applications included in install.bat](#applications-included-in-installbat)
+    - [Winget](#winget)
+        - [Usage](#usage)
+        - [Applications included in winget.bat](#applications-included-in-wingetbat)
 
 <!-- /TOC -->
+---
+
 ## Chocolatey
 
-Para um guia em portuguës de como usar o chocolatey para instalar suas dependências, basta acessar este [link](https://www.godela.com.br/noticia/1733/como-usar-o-chocolatey/).
+![Chocolatey-logo](./assets/chocolatey-logo.svg)
+
+Para um guia em português de como usar o chocolatey para instalar suas dependências, basta acessar este [link](https://www.godela.com.br/noticia/1733/como-usar-o-chocolatey/).
 
 This repository contains installation and update scripts, I use in my daily work.
 They depend on [chocolatey](http://chocolatey.org/), which is the package manager, I like most on Windows.
 
 For the Linux SO, try [https://github.com/georgemaia/env-linux](https://github.com/georgemaia/env-linux).
 
-![Chocolatey-logo](https://chocolatey.org/assets/images/global-shared/logo-square.svg)
-
 
 ### Chocolatey install scripts
+
 Chocolatey is a package manager for windows, allowing you to install apps with a single command. This is how you install git using chocolatey: ```choco install git```
 
 See [github repo](https://github.com/chocolatey/choco)
@@ -54,7 +60,7 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 
 ---
 
-### Applications
+### Applications included in install.bat
 
 * 7-Zip
 * Adobe Acrobat Reader DC
@@ -101,9 +107,15 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 * WinSCP
 * XAMPP
 
+---
+
 ## Winget
 
+![Winget Logo](./assets/winget-logo.png)
+
 Windows Package Manager (winget) is a command-line utility developed by Microsoft for Windows 10 and later versions. It is designed to simplify the process of installing, updating, configuring, and managing software applications on Windows machines.
+
+Documentação Oficial Winget: https://learn.microsoft.com/en-us/windows/package-manager/winget/
 
 ### Usage
 
@@ -156,3 +168,10 @@ Configure Source Repositories: You can add custom sources or repositories for pa
 Call a instalation bat:
 
 After start `cmd.exe` as administrator and run [winget.bat](winget.bat).
+
+### Applications included in winget.bat
+
+- Git
+- Laragon
+- Microsfot Visual Studio Code
+- Obsidian

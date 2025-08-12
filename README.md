@@ -22,10 +22,10 @@
 Para um guia em português de como usar o chocolatey para instalar suas dependências, basta acessar este [link](https://www.godela.com.br/noticia/1733/como-usar-o-chocolatey/).
 
 This repository contains installation and update scripts, I use in my daily work.
-They depend on [chocolatey](http://chocolatey.org/), which is the package manager, I like most on Windows.
 
-For the Linux SO, try [https://github.com/georgemaia/env-linux](https://github.com/georgemaia/env-linux).
+They depend on 🍫 [chocolatey](http://chocolatey.org/), which is the package manager, I like most on Windows.
 
+For the Linux SO, try 🐧 [https://github.com/georgemaia/env-linux](https://github.com/georgemaia/env-linux).
 
 ### Chocolatey install scripts
 
@@ -39,7 +39,7 @@ See [github repo](https://github.com/chocolatey/choco)
 
 **First install Chocolatey using cmd**
 
-```
+```bash
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ```
 
@@ -51,6 +51,7 @@ They should be capabale to recognize an existing installation.
 ---
 
 ### Documentation
+
 Please see the [wiki](https://github.com/chocolatey/choco/wiki)
 
 Give `choco.exe /?` a shot (or `choco.exe -h`). For specific commands, add the command and then the help switch e.g. `choco.exe install -h`.
@@ -61,50 +62,50 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 
 ### Applications included in install.bat
 
-* 7-Zip
-* Adobe Acrobat Reader DC
-* Amazon Send to Kindle
-* Anaconda Notebook
-* Android Studio
-* Anydesk
-* Brave Browser
-* Calibre
-* Composer - Php Dependency Manager
-* DBeaver
-* Docker-Desktop
-* Dropbox
-* Fira Code Font
-* FileZilla Client
-* Firefox
-* Font-Awesome
-* Gradle
-* Git
-* Insomnia
-* IntelliJidea Community
-* Kdenlive
-* LibreOffice
-* MEGAsync
-* Microsoft PowerToys
-* Microsoft Visual Studio Code
-* Obs-studio
-* Openshot
-* Oracle VM VirtualBox
-* Pandoc
-* Putty
-* sql-server-management-studio
-* Python 3
-* SyncToy
-* Synctrayzor
-* TeamViewer
-* Ventoy
-* VeraCrypt
-* VLC media player
-* VMWare Workstation Player
-* VNC Viewer
-* VS Code
-* WindirStat
-* WinSCP
-* XAMPP
+- 7-Zip
+- Adobe Acrobat Reader DC
+- Amazon Send to Kindle
+- Anaconda Notebook
+- Android Studio
+- Anydesk
+- Brave Browser
+- Calibre
+- Composer - Php Dependency Manager
+- DBeaver
+- Docker-Desktop
+- Dropbox
+- Fira Code Font
+- FileZilla Client
+- Firefox
+- Font-Awesome
+- Gradle
+- Git
+- Insomnia
+- IntelliJidea Community
+- Kdenlive
+- LibreOffice
+- MEGAsync
+- Microsoft PowerToys
+- Microsoft Visual Studio Code
+- Obs-studio
+- Openshot
+- Oracle VM VirtualBox
+- Pandoc
+- Putty
+- sql-server-management-studio
+- Python 3
+- SyncToy
+- Synctrayzor
+- TeamViewer
+- Ventoy
+- VeraCrypt
+- VLC media player
+- VMWare Workstation Player
+- VNC Viewer
+- VS Code
+- WindirStat
+- WinSCP
+- XAMPP
 
 ---
 
@@ -112,7 +113,7 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 
 ![Winget Logo](./assets/winget-logo.png)
 
-Windows Package Manager (winget) is a command-line utility developed by Microsoft for Windows 10 and later versions. It is designed to simplify the process of installing, updating, configuring, and managing software applications on Windows machines.
+🖵 Windows Package Manager (winget) is a command-line utility developed by Microsoft for Windows 10 and later versions. It is designed to simplify the process of installing, updating, configuring, and managing software applications on Windows machines.
 
 Documentação Oficial Winget: https://learn.microsoft.com/en-us/windows/package-manager/winget/
 

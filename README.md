@@ -152,3 +152,7 @@ winget install -m path\to\package.yaml
 ```
 
 Configure Source Repositories: You can add custom sources or repositories for package management using the source command. This allows you to access additional software packages not included in the default Microsoft repository.
+
+Call a instalation bat:
+
+After start `cmd.exe` as administrator and run [winget.bat](winget.bat).

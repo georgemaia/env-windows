@@ -173,10 +173,13 @@ After start `cmd.exe` as administrator and run [winget-install.bat](winget-insta
 - 7-Zip
 - Adobe Acrobat Reader 64-bit
 - Brave
+- DBeaver
 - Git
 - Laragon
 - Microsoft Visual Studio Code
 - Obsidian
+- Oracle VirtualBox
+- Veracrypt
 
 ---
 

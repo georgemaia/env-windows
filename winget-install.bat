@@ -12,6 +12,8 @@ winget install Adobe.Acrobat.Reader.64-bit
 
 winget install Brave.Brave
 
+winget install DBeaver.DBeaver.Community
+
 winget install Git.Git
 
 winget install LeNgocKhoa.Laragon
@@ -19,3 +21,7 @@ winget install LeNgocKhoa.Laragon
 winget install Microsoft.VisualStudioCode
 
 winget install Obsidian.Obsidian
+
+winget install Oracle.VirtualBox
+
+winget install IDRIX.VeraCrypt

@@ -177,6 +177,7 @@ After start `cmd.exe` as administrator and run [winget-install.bat](winget-insta
 - DBeaver
 - Git
 - Laragon
+- LibreOffice
 - Microsoft Visual Studio Code
 - Obsidian
 - Oracle VirtualBox

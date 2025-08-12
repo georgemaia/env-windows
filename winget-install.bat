@@ -18,6 +18,8 @@ winget install Git.Git
 
 winget install LeNgocKhoa.Laragon
 
+winget install TheDocumentFoundation.LibreOffice
+
 winget install Microsoft.VisualStudioCode
 
 winget install Obsidian.Obsidian

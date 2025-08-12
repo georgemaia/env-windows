@@ -171,7 +171,10 @@ After start `cmd.exe` as administrator and run [winget.bat](winget.bat).
 
 ### Applications included in winget.bat
 
+- 7-Zip
+- Adobe Acrobat Reader 64-bit
+- Brave
 - Git
 - Laragon
-- Microsfot Visual Studio Code
+- Microsoft Visual Studio Code
 - Obsidian

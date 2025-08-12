@@ -10,6 +10,7 @@
     - [Winget](#winget)
         - [Usage](#usage)
         - [Applications included in winget.bat](#applications-included-in-wingetbat)
+    - [Update Applications](#update-applications)
 
 <!-- /TOC -->
 ---
@@ -42,12 +43,10 @@ See [github repo](https://github.com/chocolatey/choco)
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ```
 
-After start `cmd.exe` as administrator and run [install.bat](install.bat).
+After start `cmd.exe` as administrator and run [chocolatey-install.bat]chocolatey-install.bat).
 
 You can simply switch from manual installation to chocolatey, because chocolatey uses the installers provided by the software vendors.
 They should be capabale to recognize an existing installation.
-
-Run [update-all.bat](update-all.bat) from time to time to ensure that all packages are up to date.
 
 ---
 
@@ -167,7 +166,7 @@ Configure Source Repositories: You can add custom sources or repositories for pa
 
 Call a instalation bat:
 
-After start `cmd.exe` as administrator and run [winget.bat](winget.bat).
+After start `cmd.exe` as administrator and run [winget-install.bat](winget-install.bat).
 
 ### Applications included in winget.bat
 
@@ -178,3 +177,9 @@ After start `cmd.exe` as administrator and run [winget.bat](winget.bat).
 - Laragon
 - Microsoft Visual Studio Code
 - Obsidian
+
+---
+
+## Update Applications
+
+Run [update-all.bat](update-all.bat) from time to time to ensure that all packages are up to date.

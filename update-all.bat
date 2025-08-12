@@ -7,4 +7,5 @@ echo .
 
 echo Updating all packages...
 call choco upgrade all
+call winget upgrade --all
 echo .

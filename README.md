@@ -184,6 +184,7 @@ After start `cmd.exe` as administrator and run [winget-install.bat](winget-insta
 - Obsidian
 - Oracle VirtualBox
 - Veracrypt
+- WinSCP
 
 ---
 

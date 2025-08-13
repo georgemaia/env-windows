@@ -16,11 +16,15 @@ winget install DBeaver.DBeaver.Community
 
 winget install Git.Git
 
+winget install Inkscape.Inkscape
+
 winget install LeNgocKhoa.Laragon
 
 winget install TheDocumentFoundation.LibreOffice
 
 winget install Microsoft.VisualStudioCode
+
+winget install OpenJS.NodeJS.LTS
 
 winget install Obsidian.Obsidian
 

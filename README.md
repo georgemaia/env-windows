@@ -176,9 +176,11 @@ After start `cmd.exe` as administrator and run [winget-install.bat](winget-insta
 - Brave
 - DBeaver
 - Git
+- Inkscape
 - Laragon
 - LibreOffice
 - Microsoft Visual Studio Code
+- NodeJS
 - Obsidian
 - Oracle VirtualBox
 - Veracrypt

@@ -22,6 +22,8 @@ winget install LeNgocKhoa.Laragon
 
 winget install TheDocumentFoundation.LibreOffice
 
+winget install Microsoft.PowerShell
+
 winget install Microsoft.VisualStudioCode
 
 winget install OpenJS.NodeJS.LTS

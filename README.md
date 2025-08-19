@@ -182,6 +182,7 @@ After start `cmd.exe` as administrator and run [winget-install.bat](winget-insta
 - Microsoft Visual Studio Code
 - NodeJS
 - Obsidian
+- OnlyOffice
 - Oracle VirtualBox
 - Powershell
 - Veracrypt

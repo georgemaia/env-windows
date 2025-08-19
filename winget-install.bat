@@ -26,6 +26,8 @@ winget install Microsoft.PowerShell
 
 winget install Microsoft.VisualStudioCode
 
+winget install ONLYOFFICE.DesktopEditors
+
 winget install OpenJS.NodeJS.LTS
 
 winget install Obsidian.Obsidian

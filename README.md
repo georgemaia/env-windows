@@ -2,15 +2,15 @@
 <!-- TOC -->
 
 - [Windows ENV installs](#windows-env-installs)
-    - [Chocolatey](#chocolatey)
-        - [Chocolatey install scripts](#chocolatey-install-scripts)
-        - [Usage](#usage)
-        - [Documentation](#documentation)
-        - [Applications included in install.bat](#applications-included-in-installbat)
-    - [Winget](#winget)
-        - [Usage](#usage)
-        - [Applications included in winget.bat](#applications-included-in-wingetbat)
-    - [Update Applications](#update-applications)
+  - [Chocolatey](#chocolatey)
+    - [Chocolatey install scripts](#chocolatey-install-scripts)
+    - [Usage](#usage)
+    - [Documentation](#documentation)
+    - [Applications included in install.bat](#applications-included-in-installbat)
+  - [Winget](#winget)
+    - [Usage](#usage)
+    - [Applications included in winget.bat](#applications-included-in-wingetbat)
+  - [Update Applications](#update-applications)
 
 <!-- /TOC -->
 ---
@@ -115,7 +115,7 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 
 🖵 Windows Package Manager (winget) is a command-line utility developed by Microsoft for Windows 10 and later versions. It is designed to simplify the process of installing, updating, configuring, and managing software applications on Windows machines.
 
-Documentação Oficial Winget: https://learn.microsoft.com/en-us/windows/package-manager/winget/
+Documentação Oficial Winget: <https://learn.microsoft.com/en-us/windows/package-manager/winget/>
 
 ### Usage
 
@@ -185,6 +185,7 @@ After start `cmd.exe` as administrator and run [winget-install.bat](winget-insta
 - OnlyOffice
 - Oracle VirtualBox
 - Powershell
+- QGis
 - Veracrypt
 - WinSCP
 

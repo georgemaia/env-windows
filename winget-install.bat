@@ -34,6 +34,8 @@ winget install Obsidian.Obsidian
 
 winget install Oracle.VirtualBox
 
+winget install OSGeo.QGIS
+
 winget install IDRIX.VeraCrypt
 
 winget install WinSCP.WinSCP

@@ -183,6 +183,7 @@ After start `cmd.exe` as administrator and run [winget-install.bat](winget-insta
 - NodeJS
 - Obsidian
 - OnlyOffice
+- OpenStreetMap JOSM
 - Oracle VirtualBox
 - Powershell
 - QGis

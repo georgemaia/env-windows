@@ -18,6 +18,8 @@ winget install Git.Git
 
 winget install Inkscape.Inkscape
 
+winget install penStreetMap.Josm 
+
 winget install LeNgocKhoa.Laragon
 
 winget install TheDocumentFoundation.LibreOffice

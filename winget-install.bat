@@ -18,7 +18,7 @@ winget install Git.Git
 
 winget install Inkscape.Inkscape
 
-winget install penStreetMap.Josm 
+winget install OpenStreetMap.Josm
 
 winget install LeNgocKhoa.Laragon
 

@@ -10,6 +10,8 @@ winget install 7zip.7zip
 
 winget install Adobe.Acrobat.Reader.64-bit
 
+winget install AnyDesk.AnyDesk
+
 winget install Brave.Brave
 
 winget install DBeaver.DBeaver.Community

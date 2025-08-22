@@ -2,15 +2,15 @@
 <!-- TOC -->
 
 - [Windows ENV installs](#windows-env-installs)
-  - [Chocolatey](#chocolatey)
-    - [Chocolatey install scripts](#chocolatey-install-scripts)
-    - [Usage](#usage)
-    - [Documentation](#documentation)
-    - [Applications included in install.bat](#applications-included-in-installbat)
-  - [Winget](#winget)
-    - [Usage](#usage)
-    - [Applications included in winget.bat](#applications-included-in-wingetbat)
-  - [Update Applications](#update-applications)
+    - [Chocolatey](#chocolatey)
+        - [Chocolatey install scripts](#chocolatey-install-scripts)
+        - [Usage](#usage)
+        - [Documentation](#documentation)
+        - [Applications included in install.bat](#applications-included-in-installbat)
+    - [Winget](#winget)
+        - [Usage](#usage)
+        - [Applications included in winget.bat](#applications-included-in-wingetbat)
+    - [Update Applications](#update-applications)
 
 <!-- /TOC -->
 ---
@@ -172,7 +172,8 @@ After start `cmd.exe` as administrator and run [winget-install.bat](winget-insta
 ### Applications included in winget.bat
 
 - 7-Zip
-- Adobe Acrobat Reader 64-bit
+- Adobe Acrobat Reader
+- AnyDesk
 - Brave
 - DBeaver
 - Git

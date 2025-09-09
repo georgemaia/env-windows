@@ -148,7 +148,7 @@ winget uninstall package_name
 **Update All Packages**: You can update all installed packages to their latest versions with the upgrade command:
 
 ```bash
-winget upgrade --all
+winget upgrade --all --include-unknown
 ```
 
 **Show Package Information**: To view detailed information about a package, you can use the show command:

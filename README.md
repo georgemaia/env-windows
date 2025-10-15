@@ -6,10 +6,10 @@
         - [Chocolatey install scripts](#chocolatey-install-scripts)
         - [Usage](#usage)
         - [Documentation](#documentation)
-        - [Applications included in install.bat](#applications-included-in-installbat)
+        - [Applications included in chocolatey-install.bat](#applications-included-in-installbat)
     - [Winget](#winget)
         - [Usage](#usage)
-        - [Applications included in winget.bat](#applications-included-in-wingetbat)
+        - [Applications included in winget-install.bat](#applications-included-in-wingetbat)
     - [Update Applications](#update-applications)
 
 <!-- /TOC -->
@@ -60,7 +60,7 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 
 ---
 
-### Applications included in install.bat
+### Applications included in chocolatey-install.bat
 
 - 7-Zip
 - Adobe Acrobat Reader DC
@@ -117,6 +117,8 @@ Check out [Chocolatey's homepage](https://chocolatey.org/) or this [github repo]
 
 Documentação Oficial Winget: <https://learn.microsoft.com/en-us/windows/package-manager/winget/>
 
+---
+
 ### Usage
 
 Here are some common commands and examples of how to use winget:
@@ -169,7 +171,9 @@ Call a instalation bat:
 
 After start `cmd.exe` as administrator and run [winget-install.bat](winget-install.bat).
 
-### Applications included in winget.bat
+---
+
+### Applications included in winget-install.bat
 
 - 7-Zip
 - Adobe Acrobat Reader
